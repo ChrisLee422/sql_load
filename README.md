@@ -169,4 +169,52 @@ ORDER BY
 LIMIT 25;
 ```
 # Summary
+
+From this analysis of this project we can begin to answer the questions that we posed earlier. They are:
+### 1) What are the top-paying data-analyst jobs?
+
+![Top Paying Roles](assets/Average%20Salary%20By%20Role.png)
+
+*Figure 1. Top Paying Roles*
+
+*This graph was generated using PowerBI by exporting my first query. It shows the top 10 salaries for data analysts*
+
+### 2) What skills are required for these top-paying jobs?
+![Top Skills](assets/Top%20Skills.png)
+
+*Figure 2. Top Skills*
+
+*From this graph we can see the most skills that are required from the top paying jobs. Leading the way is **SQL** and **Python** as a way of analyzing data. We can also see data visualizing applications like **Tableau** and **Power Bi**.
+### 3) What skills are most in-demand for these top-paying jobs?
+
+When looking at the most in-demand skills we continue to see **SQL** at the top with 7291 job listings. **Excel** is next with 4611 followed by **Python** at 4330. Learning these skills are essential for any data analyst to know. 
+| Skill | Number  |
+| :---   | ---: | 
+| SQL | 7291   |
+| Excel | 4611   |
+| Python | 4330   |
+| Tableau | 3745   |
+| Power BI| 2609   |
+| R | 2142   |
+| SAS | 1866   |
+| Looker | 868   |
+| Azure | 821   |
+| PowerPoint | 819   | 
+**Table 1. Most In Demand Skills*
+### 4 & 5) What skills are associated with higher salaries and 5hat are the most optimal skills to learn for a data analyst looking to maximize job market value?
+
+![Highest Paying Skills](assets/Highest%20Paying%20Skills.png)
+*Figure 3. Highest Paying Skills*
+
+Specialized skills, such as **SVN** and **Solidity**, are associated with the highest average salaries, indicating a premium on niche expertise. However we can see that there is little demand for them. **SQL**, while not the highest paying job still provides one of the highest salaries while also being the most in-demand skill for the highest paying remote data analyst jobs. 
+
+# What I learned
+Throughout this project, I honed several key SQL techniques and skills:
+
+- **Complex Query Construction**: Learning to build advanced SQL queries that combine multiple tables and employ functions like **`WITH`** clauses for temporary tables.
+- **Data Aggregation**: Utilizing **`GROUP BY`** and aggregate functions like **`COUNT()`** and **`AVG()`** to summarize data effectively.
+- **Analytical Thinking**: Developing the ability to translate real-world questions into actionable SQL queries that got insightful answers.
+
 # Conclusions
+
+This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
