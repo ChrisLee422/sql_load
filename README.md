@@ -177,14 +177,14 @@ From this analysis of this project we can begin to answer the questions that we 
 
 *Figure 1. Top Paying Roles*
 
-*This graph was generated using PowerBI by exporting my first query. It shows the top 10 salaries for data analysts*
+*This graph was generated using PowerBI by exporting my first query. It shows the top 10 salaries for data analysts. With Data Analayst being the top salary.*
 
 ### 2) What skills are required for these top-paying jobs?
 ![Top Skills](assets/Top%20Skills.png)
 
 *Figure 2. Top Skills*
 
-*From this graph we can see the most skills that are required from the top paying jobs. Leading the way is **SQL** and **Python** as a way of analyzing data. We can also see data visualizing applications like **Tableau** and **Power Bi**.
+From this graph we can see the most skills that are required from the top paying jobs. Leading the way is **SQL** and **Python** as a way of analyzing data. We can also see data visualizing applications like **Tableau** and **Power Bi**.
 ### 3) What skills are most in-demand for these top-paying jobs?
 
 When looking at the most in-demand skills we continue to see **SQL** at the top with 7291 job listings. **Excel** is next with 4611 followed by **Python** at 4330. Learning these skills are essential for any data analyst to know. 
@@ -200,7 +200,8 @@ When looking at the most in-demand skills we continue to see **SQL** at the top 
 | Looker | 868   |
 | Azure | 821   |
 | PowerPoint | 819   | 
-**Table 1. Most In Demand Skills*
+
+*Table 1. Most In Demand Skills*
 ### 4 & 5) What skills are associated with higher salaries and 5hat are the most optimal skills to learn for a data analyst looking to maximize job market value?
 
 ![Highest Paying Skills](assets/Highest%20Paying%20Skills.png)
